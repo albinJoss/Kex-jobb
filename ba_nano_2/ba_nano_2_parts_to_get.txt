@@ -1,0 +1,8 @@
+These are the switches to get for the ba_nano board version 2.
+
+Mouser No: 642-MS12 
+Mfr. No: MS12
+Mfr.: Apem
+
+They are 0.58€ each, quanty 10.
+

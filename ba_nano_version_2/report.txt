@@ -1,0 +1,257 @@
+Info: Läser nätlistefilen 'C:\Users\chinc\Documents\ba_nano_2\ba_nano_2.net'.
+
+Info: Använda referensbeteckningar för att matcha symboler och fotavtryck.
+
+Info: Bearbetningssymbol 'SW2: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'D3: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'SW1: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'D4: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'SW10: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'D5: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'SW19: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'D6: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'SW18: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'D20: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'SW17: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'D19: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'SW16: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'D18: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'SW20: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'D17: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'SW15: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'D1: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'SW14: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'D16: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'SW13: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'D15: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'SW12: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'D14: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'SW11: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'D13: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'SW9: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'D12: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'SW8: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'D10: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'SW7: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'R13: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'D9: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'SW6: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'D8: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'R35: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'D7: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'R36: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'J1: Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical'.
+Info: Bearbetningssymbol 'R37: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'J2: Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical'.
+Info: Bearbetningssymbol 'R38: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R39: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R40: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R1: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R2: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R3: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R4: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R5: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R6: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R7: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R8: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R9: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R10: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R11: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R12: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R14: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R15: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R16: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R17: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R18: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R19: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R20: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R21: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R22: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R23: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R24: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R25: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R26: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R27: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R28: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'D11: LED_SMD:LED_1210_3225Metric_Castellated'.
+Info: Bearbetningssymbol 'R29: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R30: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R31: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R32: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R33: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'R34: Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Bearbetningssymbol 'H1: MountingHole:MountingHole_3.2mm_M3_Pad'.
+Info: Bearbetningssymbol 'H4: MountingHole:MountingHole_3.2mm_M3_Pad'.
+Info: Bearbetningssymbol 'SW5: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'H3: MountingHole:MountingHole_3.2mm_M3_Pad'.
+Info: Bearbetningssymbol 'SW4: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'H2: MountingHole:MountingHole_3.2mm_M3_Pad'.
+Info: Bearbetningssymbol 'SW3: mts_THT:DPDT-3.2MM'.
+Info: Bearbetningssymbol 'D2: LED_SMD:LED_1210_3225Metric_Castellated'.
+Varning: Inget nät hittat för symbol H1 stift 1.
+Varning: Inget nät hittat för symbol H4 stift 1.
+Varning: Inget nät hittat för symbol H3 stift 1.
+Varning: Inget nät hittat för symbol H2 stift 1.
+Fel: SW1 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: SW10 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: SW19 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: SW18 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: SW17 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: SW16 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: SW20 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: SW15 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: SW14 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: SW13 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: SW12 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: SW11 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: SW9 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: SW8 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: SW7 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: SW6 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R35 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R36 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R37 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R38 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R39 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R40 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R1 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R2 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R3 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R4 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R5 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R7 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R8 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R9 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R10 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R11 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R12 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R13 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R14 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R15 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R16 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R17 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R18 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R19 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R20 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R21 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R22 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R23 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R24 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R25 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R26 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R27 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R28 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R29 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R30 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R31 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R32 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R33 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: R34 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D2 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D3 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D4 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D5 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D6 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D11 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D20 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D19 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D18 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D17 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D1 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D16 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D15 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D14 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D13 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D12 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D10 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D9 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D8 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: D7 fotavtryck 'LED_1210_3225Metric_Castellated' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: Kunde inte lägga till SW5 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW4 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW3 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW2 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW1 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW10 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW19 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW18 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW17 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW16 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW20 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW15 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW14 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW13 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW12 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW11 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW9 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW8 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW7 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till SW6 (fotavtryck 'mts_THT:DPDT-3.2MM' hittades inte).
+Fel: Kunde inte lägga till R35 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till R36 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till R37 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till R13 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till R29 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till R5 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till R30 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till R14 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till R31 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till R38 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till R32 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till R15 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till R33 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till R6 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till R34 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till R16 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: SW5 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: Kunde inte lägga till R2 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: SW4 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: Kunde inte lägga till R17 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: SW3 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: Kunde inte lägga till R7 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: SW2 fotavtryck 'DPDT-3.2MM' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: Kunde inte lägga till R18 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D2 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R40 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D3 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R19 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D4 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R8 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D5 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R20 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D6 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: R6 fotavtryck 'R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte i några bibliotek i tabellen för fotavtrycksbibliotek.
+Fel: Kunde inte lägga till D11 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R3 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D20 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R21 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D19 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R9 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D18 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R22 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D17 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R39 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D1 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R23 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D16 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R10 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D15 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R24 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D14 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R4 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D13 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R25 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D12 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R11 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D10 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R26 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D9 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R1 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D8 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R27 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till D7 (fotavtryck 'LED_SMD:LED_1210_3225Metric_Castellated' hittades inte).
+Fel: Kunde inte lägga till R12 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+Fel: Kunde inte lägga till R28 (fotavtryck 'Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder' hittades inte).
+
+
+Info: Totala varningar: 0, fel: 80.
