@@ -1,0 +1,162 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "LS0565SRWK"
+   (description "DISPLAY, SEVEN SEGMENT, 0.56 INCH, RED")
+   (family "ANA")
+   (package "DIPS1524W50P246L1260H800Q10N")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/5/LS0565SRWK.pdf")
+   (attribute "Geometry.Height" "8mm")
+   (attribute "Manufacturer_Name" "MULTICOMP")
+   (attribute "Manufacturer_Part_Number" "LS0565SRWK")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "LS0565SRWK")
+    (pin "A_E" 1 PS)
+    (pin "A_D" 2 PS)
+    (pin "COMMON_K_1" 3 PS)
+    (pin "A_C" 4 PS)
+    (pin "A_DP" 5 PS)
+    (pin "A_G" 10 PS)
+    (pin "A_F" 9 PS)
+    (pin "COMMON_K_2" 8 PS)
+    (pin "A_A" 7 PS)
+    (pin "A_B" 6 PS)
+   )
+  )
+  (symbol "LS0565SRWK"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1500 100) (pt 1500 -500) (pt 200 -500) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "DIPS1524W50P246L1260H800Q10N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.13 1.63)
+      (pt 17.37 1.63)
+      (pt 17.37 -11.47)
+      (pt -2.13 -11.47)
+      (pt -2.13 1.63))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.88 1.38)
+      (pt 17.12 1.38)
+      (pt 17.12 -11.22)
+      (pt -1.88 -11.22)
+      (pt -1.88 1.38))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.88 0.15)
+      (pt -0.65 1.38))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.88 -11.22)
+      (pt 17.12 -11.22))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 17.12 1.38)
+      (pt -1.88 1.38)
+      (pt -1.88 0))))
+   (leg 1 (pt 0 0) (padstack 1))
+   (leg 2 (pt 0 -2.46) (padstack 0))
+   (leg 3 (pt 0 -4.92) (padstack 0))
+   (leg 4 (pt 0 -7.38) (padstack 0))
+   (leg 5 (pt 0 -9.84) (padstack 0))
+   (leg 6 (pt 15.24 -9.84) (padstack 0))
+   (leg 7 (pt 15.24 -7.38) (padstack 0))
+   (leg 8 (pt 15.24 -4.92) (padstack 0))
+   (leg 9 (pt 15.24 -2.46) (padstack 0))
+   (leg 10 (pt 15.24 0) (padstack 0))
+   (padstack 0
+    (hole 0.7)
+    (plated true)
+    (pad (layer TCOP) (round 1.1))
+    (pad (layer INNER) (round 1.1))
+    (pad (layer BCOP) (round 1.1))
+   )
+   (padstack 1
+    (hole 0.7)
+    (plated true)
+    (pad (layer TCOP) (square 1.1))
+    (pad (layer INNER) (round 1.1))
+    (pad (layer BCOP) (square 1.1))
+   )
+  )
+ )
+)

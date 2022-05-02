@@ -1,0 +1,9 @@
+Manufacturer=MULTICOMP
+PartNumber=LS0565SRWK
+PartCategory=Display
+PackageCategory=Dual-In-Line Sockets
+PinCount=10
+Version=1.1
+Released=2021-10-11 18:40:20
+Downloaded=2022-05-02 18:40:52
+3D=N

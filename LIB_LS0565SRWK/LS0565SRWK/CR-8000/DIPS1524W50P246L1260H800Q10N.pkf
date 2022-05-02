@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "DIPS1524W50P246L1260H800Q10N"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "DIPS1524W50P246L1260H800Q10N")
+        (spec "default")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LS0565SRWK
+D DISPLAY, SEVEN SEGMENT, 0.56 INCH, RED
+K
+F https://componentsearchengine.com/Datasheets/5/LS0565SRWK.pdf
+$ENDCMP
+#
+#End Doc Library

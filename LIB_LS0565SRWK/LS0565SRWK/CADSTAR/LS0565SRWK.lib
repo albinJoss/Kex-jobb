@@ -1,0 +1,17 @@
+.LS0565SRWK :1 ;DISPLAY, SEVEN SEGMENT, 0.56 INCH, RED
+DIPS1524W50P246L1260H800Q10N
+*STM DS
+*NGS
+*PLB 1="A_E" 2="A_D" 3="COMMON_K_1" 4="A_C" 5="A_DP" 6="A_B" 7="A_A" 8="COMMON_K_2" 9="A_F" 10="A_G"
+*MXP 10
+*DFN LS0565SRWK
+~!Manufacturer_Name (MULTICOMP)
+~!Manufacturer_Part_Number (LS0565SRWK)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/5/LS0565SRWK.pdf)
+~!Height (8mm)
+LS0565SRWK
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 10.1!U 9.1!U 8.1!U 7.1!U 6.1!U 

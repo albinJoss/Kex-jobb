@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LS0565SRWK"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-10-11-18:40:20)
+    (mountForm default
+        (footprintRef "DIPS1524W50P246L1260H800Q10N")
+        (spec "System")
+    )
+)

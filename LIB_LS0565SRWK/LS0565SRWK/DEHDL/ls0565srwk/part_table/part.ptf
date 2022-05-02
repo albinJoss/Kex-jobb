@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LS0565SRWK'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "MULTICOMP", "LS0565SRWK" (!) = "", "DIPS1524W50P246L1260H800Q10N", "Dual-In-Line Sockets", "", "", "", "", "DISPLAY, SEVEN SEGMENT, 0.56 INCH, RED", "https://componentsearchengine.com/Datasheets/5/LS0565SRWK.pdf", "8 mm"
+END_PART
+
+END.
